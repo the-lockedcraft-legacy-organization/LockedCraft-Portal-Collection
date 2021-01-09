@@ -1,0 +1,12 @@
+portal-open=KELP_PLANT
+portal-closed=WATER
+toowner=false
+X=SPRUCE_SLAB
+Z=SEA_LANTERN
+-=SPRUCE_SLAB
+
+XXXX
+X..X
+-..-
+X.*X
+ZXXZ

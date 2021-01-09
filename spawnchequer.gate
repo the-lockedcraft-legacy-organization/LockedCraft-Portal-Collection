@@ -1,0 +1,13 @@
+portal-open=NETHER_PORTAL
+portal-closed=AIR
+toowner=false
+T=REDSTONE_WALL_TORCH
+I=IRON_BLOCK
+L=LAPIS_BLOCK
+-=REDSTONE_LAMP
+
+ILILI
+L...L
+-...-
+I.*.I
+TIIIT

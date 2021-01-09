@@ -1,0 +1,12 @@
+portal-open=KELP_PLANT
+portal-closed=WATER
+toowner=false
+X=SMOOTH_SANDSTONE_SLAB
+Z=SEA_LANTERN
+-=SMOOTH_SANDSTONE_SLAB
+
+XXXX
+X..X
+-..-
+X.*X
+ZXXZ
