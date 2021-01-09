@@ -1,0 +1,12 @@
+portal-open=NETHER_PORTAL
+portal-closed=AIR
+toowner=false
+X=RED_NETHER_BRICK_SLAB
+Z=RED_NETHER_BRICK_SLAB
+-=RED_NETHER_BRICK_SLAB
+
+XXXX
+X..X
+-..-
+X.*X
+ZXXZ

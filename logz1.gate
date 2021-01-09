@@ -1,0 +1,17 @@
+portal-open=WATER
+portal-closed=AIR
+toowner=false
+X=CRIMSON_HYPHAE
+Y=LAPIS_BLOCK
+Z=REDSTONE_WALL_TORCH
+L=CRIMSON_HYPHAE
+-=REDSTONE_LAMP
+
+  L  
+ L.L 
+L...L
+L...L
+-...-
+L.*.L
+ZLLLZ
+     

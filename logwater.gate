@@ -1,0 +1,17 @@
+portal-open=TUBE_CORAL
+portal-closed=WATER
+toowner=false
+X=IRON_BLOCK
+Y=LAPIS_BLOCK
+Z=REDSTONE_WALL_TORCH
+L=IRON_BLOCK
+-=MAGMA_BLOCK
+
+  L  
+ L.L 
+L...L
+L...L
+-...-
+L.*.L
+ LLL 
+     

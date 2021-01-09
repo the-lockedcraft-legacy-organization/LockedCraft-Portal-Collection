@@ -1,0 +1,15 @@
+portal-open=LILAC
+portal-closed=AIR
+toowner=false
+V=END_STONE
+W=GRAY_GLAZED_TERRACOTTA
+X=COBWEB
+Y=END_ROD
+Z=END_STONE_BRICK_SLAB
+-=COBWEB
+
+ZZZZZ
+X...X
+-...-
+Y.*.Y
+WVVVW

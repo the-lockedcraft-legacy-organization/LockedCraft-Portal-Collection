@@ -1,0 +1,15 @@
+portal-open=WATER
+portal-closed=AIR
+toowner=false
+V=STONE_BRICKS
+W=REDSTONE_LAMP
+X=OAK_LEAVES
+Y=OAK_FENCE
+Z=SMOOTH_STONE_SLAB
+-=OAK_LEAVES
+
+ZZZZZ
+X...X
+-...-
+Y.*.Y
+WVVVW

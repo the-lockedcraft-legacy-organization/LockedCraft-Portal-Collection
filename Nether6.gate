@@ -1,0 +1,12 @@
+portal-open=NETHER_PORTAL
+portal-closed=AIR
+toowner=false
+X=SMOOTH_QUARTZ_SLAB
+Z=SMOOTH_QUARTZ_SLAB
+-=SMOOTH_QUARTZ_SLAB
+
+XXXX
+X..X
+-..-
+X.*X
+ZXXZ

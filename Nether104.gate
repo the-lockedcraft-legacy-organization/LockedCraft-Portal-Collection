@@ -1,0 +1,12 @@
+portal-open=NETHER_PORTAL
+portal-closed=AIR
+toowner=false
+X=CRIMSON_SLAB
+Z=CRIMSON_SLAB
+-=CRIMSON_SLAB
+
+XXXX
+X..X
+-..-
+X.*X
+ZXXZ

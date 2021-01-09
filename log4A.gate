@@ -1,0 +1,17 @@
+portal-open=WATER
+portal-closed=AIR
+toowner=false
+X=STRIPPED_JUNGLE_LOG
+Y=LAPIS_BLOCK
+Z=REDSTONE_WALL_TORCH
+L=STRIPPED_JUNGLE_LOG
+-=REDSTONE_LAMP
+
+  L  
+ L.L 
+L...L
+L...L
+-...-
+L.*.L
+ZLLLZ
+     

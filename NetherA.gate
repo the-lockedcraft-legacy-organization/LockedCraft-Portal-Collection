@@ -1,0 +1,12 @@
+portal-open=NETHER_PORTAL
+portal-closed=AIR
+toowner=false
+X=SMOOTH_QUARTZ
+Z=SMOOTH_QUARTZ
+-=SMOOTH_QUARTZ
+
+XXXX
+X..X
+-..-
+X.*X
+ZXXZ

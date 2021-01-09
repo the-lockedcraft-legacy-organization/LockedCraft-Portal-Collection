@@ -1,0 +1,12 @@
+portal-open=NETHER_PORTAL
+portal-closed=AIR
+toowner=false
+X=SANDSTONE_SLAB
+Z=SANDSTONE_SLAB
+-=SANDSTONE_SLAB
+
+XXXX
+X..X
+-..-
+X.*X
+ZXXZ

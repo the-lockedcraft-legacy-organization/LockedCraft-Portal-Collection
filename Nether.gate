@@ -1,0 +1,12 @@
+portal-open=NETHER_PORTAL
+portal-closed=AIR
+toowner=false
+X=IRON_BLOCK
+Z=IRON_BLOCK
+-=IRON_BLOCK
+
+XXXX
+X..X
+-..-
+X.*X
+ZXXZ
