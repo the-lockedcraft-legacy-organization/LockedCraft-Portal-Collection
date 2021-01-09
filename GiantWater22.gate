@@ -1,0 +1,13 @@
+portal-open=TUBE_CORAL
+portal-closed=WATER
+toowner=false
+X=STONE_BRICK_SLAB
+Z=SEA_LANTERN
+-=STONE_BRICK_SLAB
+
+   XXXX    
+  X....X   
+ X......X  
+-........- 
+X...*....X 
+ZXXXXXXXXZ 

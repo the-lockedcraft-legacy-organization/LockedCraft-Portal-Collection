@@ -1,0 +1,11 @@
+portal-open=WATER
+portal-closed=AIR
+toowner=false
+X=SMOOTH_STONE_SLAB
+Y=LAPIS_BLOCK
+-=SMOOTH_STONE_SLAB
+
+XXX
+-.-
+X*X
+XYX

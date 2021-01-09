@@ -1,0 +1,11 @@
+portal-open=WATER
+portal-closed=AIR
+toowner=false
+X=CUT_SANDSTONE_SLAB
+Y=LAPIS_BLOCK
+-=CUT_SANDSTONE_SLAB
+
+XXX
+-.-
+X*X
+XYX

@@ -1,0 +1,13 @@
+portal-open=TUBE_CORAL
+portal-closed=WATER
+toowner=false
+X=MOSSY_COBBLESTONE_SLAB
+Z=SEA_LANTERN
+-=MOSSY_COBBLESTONE_SLAB
+
+   XXXX    
+  X....X   
+ X......X  
+-........- 
+X...*....X 
+ZXXXXXXXXZ 

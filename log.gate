@@ -1,0 +1,17 @@
+portal-open=WATER
+portal-closed=AIR
+toowner=false
+X=IRON_BLOCK
+Y=LAPIS_BLOCK
+Z=REDSTONE_WALL_TORCH
+L=IRON_BLOCK
+-=REDSTONE_LAMP
+
+  L  
+ L.L 
+L...L
+L...L
+-...-
+L.*.L
+ZLLLZ
+     

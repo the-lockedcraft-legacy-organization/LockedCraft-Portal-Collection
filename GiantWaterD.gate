@@ -1,0 +1,13 @@
+portal-open=TUBE_CORAL
+portal-closed=WATER
+toowner=false
+X=SMOOTH_STONE
+Z=SEA_LANTERN
+-=SMOOTH_STONE
+
+   XXXX    
+  X....X   
+ X......X  
+-........- 
+X...*....X 
+ZXXXXXXXXZ 

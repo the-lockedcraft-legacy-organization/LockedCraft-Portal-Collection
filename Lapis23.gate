@@ -1,0 +1,11 @@
+portal-open=WATER
+portal-closed=AIR
+toowner=false
+X=BRICK_SLAB
+Y=LAPIS_BLOCK
+-=BRICK_SLAB
+
+XXX
+-.-
+X*X
+XYX
