@@ -1,0 +1,13 @@
+portal-open=NETHER_PORTAL
+portal-closed=AIR
+toowner=false
+P=QUARTZ_PILLAR
+B=NETHER_BRICKS
+S=NETHER_BRICK_STAIRS
+-=CHISELED_QUARTZ_BLOCK
+
+SBBBS
+P...P
+-...-
+P.*.P
+PBBBP

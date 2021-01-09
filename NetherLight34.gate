@@ -1,0 +1,13 @@
+portal-open=WATER
+portal-closed=AIR
+toowner=false
+X=SPRUCE_SLAB
+Y=SPRUCE_SLAB
+Z=REDSTONE_WALL_TORCH
+-=REDSTONE_LAMP
+
+XXXX
+Y..Y
+-..-
+X*.X
+ZXXZ

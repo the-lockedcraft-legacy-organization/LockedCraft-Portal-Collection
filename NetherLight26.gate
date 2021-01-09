@@ -1,0 +1,13 @@
+portal-open=WATER
+portal-closed=AIR
+toowner=false
+X=CUT_SANDSTONE_SLAB
+Y=CUT_SANDSTONE_SLAB
+Z=REDSTONE_WALL_TORCH
+-=REDSTONE_LAMP
+
+XXXX
+Y..Y
+-..-
+X*.X
+ZXXZ

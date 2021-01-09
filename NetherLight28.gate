@@ -1,0 +1,13 @@
+portal-open=WATER
+portal-closed=AIR
+toowner=false
+X=SMOOTH_STONE_SLAB
+Y=SMOOTH_STONE_SLAB
+Z=REDSTONE_WALL_TORCH
+-=REDSTONE_LAMP
+
+XXXX
+Y..Y
+-..-
+X*.X
+ZXXZ

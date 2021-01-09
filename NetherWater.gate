@@ -1,0 +1,12 @@
+portal-open=KELP_PLANT
+portal-closed=WATER
+toowner=false
+X=IRON_BLOCK
+Z=SEA_LANTERN
+-=IRON_BLOCK
+
+XXXX
+X..X
+-..-
+X.*X
+ZXXZ

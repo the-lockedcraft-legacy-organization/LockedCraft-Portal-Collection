@@ -1,0 +1,12 @@
+portal-open=KELP_PLANT
+portal-closed=WATER
+toowner=false
+X=POLISHED_DIORITE_SLAB
+Z=SEA_LANTERN
+-=POLISHED_DIORITE_SLAB
+
+XXXX
+X..X
+-..-
+X.*X
+ZXXZ

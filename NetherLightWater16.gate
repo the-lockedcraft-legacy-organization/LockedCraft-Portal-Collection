@@ -1,0 +1,13 @@
+portal-open=TUBE_CORAL
+portal-closed=WATER
+toowner=false
+X=PRISMARINE_SLAB
+Y=PRISMARINE_SLAB
+Z=REDSTONE_WALL_TORCH
+-=MAGMA_BLOCK
+
+XXXX
+Y..Y
+-..-
+X.*X
+ XX 

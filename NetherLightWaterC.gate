@@ -1,0 +1,13 @@
+portal-open=TUBE_CORAL
+portal-closed=WATER
+toowner=false
+X=SMOOTH_SANDSTONE
+Y=SMOOTH_SANDSTONE
+Z=REDSTONE_WALL_TORCH
+-=MAGMA_BLOCK
+
+XXXX
+Y..Y
+-..-
+X.*X
+ XX 

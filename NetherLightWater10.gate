@@ -1,0 +1,13 @@
+portal-open=TUBE_CORAL
+portal-closed=WATER
+toowner=false
+X=POLISHED_DIORITE_SLAB
+Y=POLISHED_DIORITE_SLAB
+Z=REDSTONE_WALL_TORCH
+-=MAGMA_BLOCK
+
+XXXX
+Y..Y
+-..-
+X.*X
+ XX 
