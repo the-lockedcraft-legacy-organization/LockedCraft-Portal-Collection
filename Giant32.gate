@@ -1,0 +1,13 @@
+portal-open=WATER
+portal-closed=AIR
+toowner=false
+X=JUNGLE_SLAB
+Z=JUNGLE_SLAB
+-=JUNGLE_SLAB
+
+   XXXX    
+  X....X   
+ X......X  
+-........- 
+X...*....X 
+ZZZZZZZZZZ 

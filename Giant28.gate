@@ -1,0 +1,13 @@
+portal-open=WATER
+portal-closed=AIR
+toowner=false
+X=SMOOTH_STONE_SLAB
+Z=SMOOTH_STONE_SLAB
+-=SMOOTH_STONE_SLAB
+
+   XXXX    
+  X....X   
+ X......X  
+-........- 
+X...*....X 
+ZZZZZZZZZZ 

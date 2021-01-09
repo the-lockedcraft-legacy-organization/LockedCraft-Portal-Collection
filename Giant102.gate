@@ -1,0 +1,13 @@
+portal-open=WATER
+portal-closed=AIR
+toowner=false
+X=POLISHED_BLACKSTONE_BRICK_SLAB
+Z=POLISHED_BLACKSTONE_BRICK_SLAB
+-=POLISHED_BLACKSTONE_BRICK_SLAB
+
+   XXXX    
+  X....X   
+ X......X  
+-........- 
+X...*....X 
+ZZZZZZZZZZ 

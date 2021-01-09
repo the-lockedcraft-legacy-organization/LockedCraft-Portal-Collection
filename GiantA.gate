@@ -1,0 +1,13 @@
+portal-open=WATER
+portal-closed=AIR
+toowner=false
+X=SMOOTH_QUARTZ
+Z=SMOOTH_QUARTZ
+-=SMOOTH_QUARTZ
+
+   XXXX    
+  X....X   
+ X......X  
+-........- 
+X...*....X 
+ZZZZZZZZZZ 

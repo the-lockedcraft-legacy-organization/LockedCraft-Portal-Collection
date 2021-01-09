@@ -1,0 +1,13 @@
+portal-open=WATER
+portal-closed=AIR
+toowner=false
+X=ANDESITE_SLAB
+Z=ANDESITE_SLAB
+-=ANDESITE_SLAB
+
+   XXXX    
+  X....X   
+ X......X  
+-........- 
+X...*....X 
+ZZZZZZZZZZ 

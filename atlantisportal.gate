@@ -1,0 +1,12 @@
+portal-open=KELP_PLANT
+portal-closed=WATER
+toowner=false
+B=PRISMARINE_BRICKS
+S=PRISMARINE_BRICK_STAIRS
+-=SEA_LANTERN
+N=PRISMARINE
+
+SBS
+-.-
+B*B
+ N 

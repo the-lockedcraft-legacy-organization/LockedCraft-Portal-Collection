@@ -1,0 +1,13 @@
+portal-open=NETHER_PORTAL
+portal-closed=AIR
+toowner=false
+B=SMOOTH_QUARTZ
+S=QUARTZ_STAIRS
+H=QUARTZ_BLOCK
+-=QUARTZ_BLOCK
+
+SBHBS
+B...B
+-...-
+B.*.B
+SBHBS
