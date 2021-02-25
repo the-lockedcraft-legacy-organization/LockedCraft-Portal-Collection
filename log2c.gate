@@ -1,0 +1,17 @@
+portal-open=WATER
+portal-closed=AIR
+toowner=false
+X=STRIPPED_SPRUCE_WOOD
+Y=LAPIS_BLOCK
+Z=REDSTONE_WALL_TORCH
+L=STRIPPED_SPRUCE_WOOD
+-=REDSTONE_LAMP
+
+  L  
+ L.L 
+L...L
+L...L
+-...-
+L.*.L
+ZLLLZ
+     
