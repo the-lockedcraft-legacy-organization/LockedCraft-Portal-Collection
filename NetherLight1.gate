@@ -1,8 +1,8 @@
 portal-open=WATER
 portal-closed=AIR
 toowner=false
-X=DIORITE_SLAB
-Y=DIORITE_SLAB
+X=#SLABS
+Y=#SLABS
 Z=REDSTONE_WALL_TORCH
 -=REDSTONE_LAMP
 

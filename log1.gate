@@ -1,10 +1,10 @@
 portal-open=WATER
 portal-closed=AIR
 toowner=false
-X=OAK_LOG
+X=#LOGS
 Y=LAPIS_BLOCK
 Z=REDSTONE_WALL_TORCH
-L=OAK_LOG
+L=#LOGS
 -=REDSTONE_LAMP
 
   L  

@@ -18,6 +18,9 @@ This collection has not been documented, although it is explained within [this s
 - That has been accomplished with a script, and this is the result.
 
 # Changes
+#### [Version 3.0] LCLO Fork
+- Updated library to 1.17
+- Transitioned to the tag system supported by stargate release 10.7
 #### [Version 2.1] LCLO Fork
 - Updated library to 1.16
 - Added a .schem file to act as temporary documentation

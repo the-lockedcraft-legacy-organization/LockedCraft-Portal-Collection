@@ -1,9 +1,9 @@
 portal-open=KELP_PLANT
 portal-closed=WATER
 toowner=false
-X=DIORITE_SLAB
+X=#SLABS
 Z=SEA_LANTERN
--=DIORITE_SLAB
+-=#SLABS
 
 XXXX
 X..X

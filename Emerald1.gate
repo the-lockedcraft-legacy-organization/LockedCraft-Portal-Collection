@@ -1,9 +1,9 @@
 portal-open=TUBE_CORAL
 portal-closed=WATER
 toowner=false
-X=DIORITE_SLAB
+X=#SLABS
 Y=EMERALD_BLOCK
--=DIORITE_SLAB
+-=#SLABS
 
 XXX
 -.-

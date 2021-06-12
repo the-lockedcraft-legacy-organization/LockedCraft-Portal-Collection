@@ -1,9 +1,9 @@
 portal-open=NETHER_PORTAL
 portal-closed=AIR
 toowner=false
-X=DIORITE_SLAB
-Z=DIORITE_SLAB
--=DIORITE_SLAB
+X=#SLABS
+Z=#SLABS
+-=#SLABS
 
 XXXX
 X..X

@@ -1,8 +1,8 @@
 portal-open=TUBE_CORAL
 portal-closed=WATER
 toowner=false
-X=DIORITE_SLAB
-Y=DIORITE_SLAB
+X=#SLABS
+Y=#SLABS
 Z=REDSTONE_WALL_TORCH
 -=MAGMA_BLOCK
 
